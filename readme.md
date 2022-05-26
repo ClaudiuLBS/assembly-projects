@@ -1,4 +1,4 @@
-# Assemblt Projects
+# Assembly Projects
 
 :warning: **Romanian Language**
 
